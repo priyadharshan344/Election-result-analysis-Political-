@@ -1,3 +1,5 @@
+![Election](https://github.com/priyadharshan344/Election-result-analysis-Political-/blob/main/images.jpg)
+
 # Election-result-analysis-(Political)
 This project involves a comprehensive analysis of election results, leveraging Power BI for visual insights and SQL for exploratory data analysis (EDA). The goal was to extract, clean, and model data to create an interactive dashboard, providing stakeholders with actionable insights into various election metrics.
 
