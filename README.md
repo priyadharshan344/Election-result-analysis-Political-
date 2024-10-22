@@ -29,5 +29,8 @@ The Election Results Analysis project focuses on understanding voting patterns, 
 - Vote Comparison: A comparison of EVM and Postal votes, visualized through pie charts.
 - Top Candidates: Highlighting candidates who received the most votes, broken down by EVM and Postal voting methods.
 
+### SQL Queries for EDA
+[Fired queries](https://github.com/priyadharshan344/Election-result-analysis-Political-/blob/main/Fired%20Queries.sql)
+
 ## Conclusion
 This project offers a deep dive into election results, using data visualization and analytics to uncover trends and support decision-making. By integrating SQL for data validation and Power BI for visualization, the project delivers a comprehensive overview of the election landscape.
